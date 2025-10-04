@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Moses Ademokun  mazetechsolution@gmail.com  @maze4real
 
 # THANKS
 

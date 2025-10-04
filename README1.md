@@ -9,4 +9,5 @@ As stated Above, This is to provide simple examples for Git training demos
 ## Deployement
 This is a simple web server. It can be on any server or a local system
 ## How to contribute
+Please fork this repository and then issue Pull Requests for review.
 ### 2025 Git. Training.

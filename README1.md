@@ -7,4 +7,5 @@ This is an example to show different parts of the Git repository and various com
 ## Purpose
 As stated Above, This is to provide simple examples for Git training demos
 ## Deployement
+This is a simple web server. It can be on any server or a local system
 ## How to contribute
